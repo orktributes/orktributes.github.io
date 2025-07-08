@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>porn</title>
+  <subtitle>This is a longer description about your blog.</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self" />
+  <link href="http://localhost:8080/" />
+  <updated>2025-07-08T20:24:29Z</updated>
+  <id>http://localhost:8080/</id>
+  <author>
+    <name>Your Nam</name>
+  </author>
+</feed>
