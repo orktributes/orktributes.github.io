@@ -19,13 +19,9 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Check that box!
+      label: 
       options:
-        - label: This one!
+        - label: Is the image sexual?
           required: true
-        - label: I won't stop you if you check this one, too
-  - type: markdown
-    attributes:
-      value: |
-        ### The thrilling conclusion
-        _to our template_
+        - label: Does the creator make 18+ content?
+          required: true
