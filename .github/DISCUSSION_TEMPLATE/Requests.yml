@@ -26,8 +26,8 @@ body:
   - type: input
     id: has-id
     attributes:
-      label: Suggestions
-      description: A description about suggestions to help you
+      label: Link to the image
+      description: twitter or bluesky only examples https://x.com/Jumngee/status/1817877737547210759,https://bsky.app/profile/aw-gazzam.bsky.social/post/3ljv7ejkkwc2k
     validations:
       required: true
   - type: dropdown
