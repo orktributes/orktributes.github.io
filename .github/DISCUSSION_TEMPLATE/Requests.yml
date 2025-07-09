@@ -19,7 +19,7 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: 
+      label: you have to accept the questions
       options:
         - label: Is the image sexual?
           required: true
