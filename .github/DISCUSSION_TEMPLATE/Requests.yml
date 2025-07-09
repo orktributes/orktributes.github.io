@@ -1,44 +1,20 @@
 title: "name of the artist"
 labels: ["General Introduction"]
 body:
-  # - type: markdown
-  #   attributes:
-  #     value: |
-  #       This is text that will show up in the template!
-  # - type: textarea
-  #   id: improvements
-  #   attributes:
-  #     label: 
-  #     description: "What are the top 3 improvements we could make to this project?"
-  #     value: |
-  #       1.
-  #       2.
-  #       3.
-  #       ...
-  #     render: bash
-  #   validations:
-  #     required: true
-  # - type: markdown
-  #   attributes:
-  #     value: |
-  #       ## Markdown header
-  #       And some more markdown
   - type: input
     id: has-id
     attributes:
       label: Link to the image
-      description: twitter or bluesky only examples https://x.com/Jumngee/status/1817877737547210759,https://bsky.app/profile/aw-gazzam.bsky.social/post/3ljv7ejkkwc2k
+      description: twitter or bluesky only examples of the type of link https://x.com/Jumngee/status/1817877737547210759,https://bsky.app/profile/aw-gazzam.bsky.social/post/3ljv7ejkkwc2k
     validations:
       required: true
   - type: dropdown
     id: download
     attributes:
-      label: Which area of this project could be most improved?
+      label: Type of image fictional,cosplay
       options:
-        - Documentation
-        - Pull request review time
-        - Bug fix time
-        - Release cadence
+        - Fictional
+        - Cosplay
     validations:
       required: true
   - type: checkboxes
