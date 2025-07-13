@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>porn</title>
-  <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="http://localhost:8080/feed.xml" rel="self" />
-  <link href="http://localhost:8080/" />
-  <updated>2025-07-12T21:35:26Z</updated>
-  <id>http://localhost:8080/</id>
+  <title>orktributes website feed</title>
+  <subtitle></subtitle>
+  <link href="https://orktributes.github.io/feed.xml" rel="self" />
+  <link href="https://orktributes.github.io/" />
+  <updated>2025-07-13T00:02:32Z</updated>
+  <id>https://orktributes.github.io/</id>
   <author>
-    <name>Your Nam</name>
+    <name>orktributes</name>
   </author>
 </feed>
