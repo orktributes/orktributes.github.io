@@ -2,33 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/</loc>
+            <loc>https://orktributes.github.io//</loc>
             <lastmod>Tue Jun 17 2025 17:13:45 GMT-0400 (Eastern Daylight Time)</lastmod>
         </url>
     
         <url>
-            <loc>/posts/non_animated/the-hostess-1967/</loc>
+            <loc>https://orktributes.github.io//posts/non_animated/the-hostess-1967/</loc>
             <lastmod>Tue Jun 17 2025 18:39:02 GMT-0400 (Eastern Daylight Time)</lastmod>
         </url>
     
         <url>
-            <loc>/posts/non_animated/</loc>
+            <loc>https://orktributes.github.io//posts/non_animated/</loc>
             <lastmod>Wed Jun 18 2025 17:51:28 GMT-0400 (Eastern Daylight Time)</lastmod>
         </url>
     
         <url>
-            <loc>/posts/animated/</loc>
+            <loc>https://orktributes.github.io//posts/animated/</loc>
             <lastmod>Wed Jun 18 2025 17:51:50 GMT-0400 (Eastern Daylight Time)</lastmod>
         </url>
     
         <url>
-            <loc>/posts/animated/doublenyl_1521193453215838208/</loc>
+            <loc>https://orktributes.github.io//posts/animated/doublenyl_1521193453215838208/</loc>
             <lastmod>Wed Jun 25 2025 04:02:25 GMT-0400 (Eastern Daylight Time)</lastmod>
         </url>
     
         <url>
-            <loc>/feed.xml</loc>
-            <lastmod>Wed Jul 16 2025 02:56:25 GMT-0400 (Eastern Daylight Time)</lastmod>
+            <loc>https://orktributes.github.io//posts/animated/drills3d_1911131509475655795/</loc>
+            <lastmod>Fri Aug 08 2025 09:33:41 GMT-0400 (Eastern Daylight Time)</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://orktributes.github.io//posts/animated/drills3d_1799271643447165383/</loc>
+            <lastmod>Fri Aug 08 2025 09:46:56 GMT-0400 (Eastern Daylight Time)</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://orktributes.github.io//posts/animated/drills3d_1789100936948048265/</loc>
+            <lastmod>Fri Aug 08 2025 09:55:59 GMT-0400 (Eastern Daylight Time)</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://orktributes.github.io//feed.xml</loc>
+            <lastmod>Fri Aug 08 2025 10:05:46 GMT-0400 (Eastern Daylight Time)</lastmod>
         </url>
     
 </urlset>
