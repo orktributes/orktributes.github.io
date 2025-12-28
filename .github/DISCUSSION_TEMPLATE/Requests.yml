@@ -1,4 +1,4 @@
-title: "name of the artist"
+title: "name of the artists"
 labels: ["General Introduction"]
 body:
   - type: input
@@ -25,4 +25,5 @@ body:
           required: true
         - label: Does the creator make 18+ content?
           required: true
+
 
